@@ -1,0 +1,16 @@
+{
+  "name": "savior",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Alonso <alex.xmde@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "base64-url": "^1.3.3",
+    "dotenv": "^4.0.0",
+    "node-fetch": "^1.7.1"
+  }
+}
