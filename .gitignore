@@ -1,3 +1,5 @@
 .env
 private_key.json
 node_modules
+dump
+db.json
